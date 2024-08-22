@@ -1,13 +1,15 @@
+import Feed from "../FeedComponents/Feed";
 import Header from "./Header";
 import Navigation from "./Navigation";
-import Storyboard from "./Storyboard";
+import Storyboard from "./StoryComponents/Storyboard";
 
 const Instargram = () => {
   return (
     <div className="w-screen h-screen">
-      <div className=" w-full h-full max-w-sm m-auto bg-orange-200">
+      <div className=" w-full h-full max-w-sm m-auto">
         <Header />
-        <Storyboard friends={10} />
+        <Storyboard />
+        <Feed />
         <Navigation />
       </div>
     </div>
