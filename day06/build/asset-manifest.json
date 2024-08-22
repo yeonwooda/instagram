@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/inout/static/css/main.ea72e066.css",
+    "main.js": "/inout/static/js/main.204b514c.js",
+    "index.html": "/inout/index.html",
+    "main.ea72e066.css.map": "/inout/static/css/main.ea72e066.css.map",
+    "main.204b514c.js.map": "/inout/static/js/main.204b514c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea72e066.css",
+    "static/js/main.204b514c.js"
+  ]
+}
